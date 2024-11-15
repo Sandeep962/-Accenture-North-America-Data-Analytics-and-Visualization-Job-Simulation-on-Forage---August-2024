@@ -1,4 +1,5 @@
 # -Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---August-2024
+
 Data Analyst Job Simulation
 * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
@@ -13,6 +14,7 @@ Reading the brief to: -
 •	Identify which tasks you should focus on as a Data Analyst.
 
 let’s have a look at what data I have to work with. The client has sent through:
+
 •	7 data sets - each data set contains different columns and values
 •	A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 
@@ -32,20 +34,25 @@ Definitions of different data types:
 •	Array - List with a number of elements in a specific order—typically of the same type
 •	Integer - Numeric data type for numbers without fractions
 •	Timestamp - Number of seconds that have elapsed since midnight (00:00:00 UTC), 1st January 1970 (Unix time)
+
 The required data sets needed to complete the analysis are 
 Ans- Reaction, Content, Reaction Types
+
 To clarify why I made this selection:
 •	The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 •	As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
 •	We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
 •	So, to figure out popularity, we’ll have to add up which content categories have the largest score.
 
-But! Before we begin to work with the data sets, we’ll need to ensure that the data is clean and ready for analysis…
+But! Before we begin to work with the data sets, we’ll need to ensure that the data is clean and ready for analysis.
+
 Second: Cleaning the data by:
 •	removing rows that have values which are missing,
 •	changing the data type of some values within a column, and
 •	removing columns which are not relevant to this task.
+
 Imported the data in Excel Power Query and performed data exploration, data cleaning and data transformation operations.
+
 Solution: -
 
 •	Loaded all Required files to Excel power query editor.
