@@ -1,6 +1,8 @@
 ## -Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---August-2024
 
-###Data Analyst Job Simulation
+This repository consists (ForageAccentureTasksReport) **pdf** in which I have explained every step during this analysis, a (Data Analytics_Task 3_Presentation) **Power Point presentation** which I have created to expalain the outcomes of the analysis and a (Data Model) **pdf** which explain the data model of the data source.
+
+### Data Analyst Job Simulation
 * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
